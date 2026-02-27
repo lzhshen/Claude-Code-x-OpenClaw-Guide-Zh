@@ -1,0 +1,335 @@
+{
+  "main": {
+    "id": "d284d8d461a1e0b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "80efda6f92d703b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd07d0d3e272d525",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Projects/2025个人年终述职/述职报告-沈丽忠-2025-精简版.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "述职报告-沈丽忠-2025-精简版"
+            }
+          },
+          {
+            "id": "43d3f6f2a82a41ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Areas/个人账号密码管理系统.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "个人账号密码管理系统"
+            }
+          },
+          {
+            "id": "9e892f5d1322a3c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Projects/TODOs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TODOs"
+            }
+          },
+          {
+            "id": "c938c9fc18d222db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Projects/AICoding/AI 辅助编程经验记录.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "AI 辅助编程经验记录"
+            }
+          },
+          {
+            "id": "f9b6acda28c6f195",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Projects/AICoding/opencode 使用笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "opencode 使用笔记"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ef16d81aa556f74",
+    "type": "split",
+    "children": [
+      {
+        "id": "8846a5f2b96a963e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18ccee342c536e96",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "208d998d96c974af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "account",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "855081ea61300933",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.5004348754883
+  },
+  "right": {
+    "id": "3bee3fe3eaa58258",
+    "type": "split",
+    "children": [
+      {
+        "id": "d19fb27a036d374f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e6d605d1a4356fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-Projects/Parlant ChatBot框架体验与评估.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Parlant ChatBot框架体验与评估 的反向链接列表"
+            }
+          },
+          {
+            "id": "7aa4572442088542",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1-Projects/Parlant ChatBot框架体验与评估.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Parlant ChatBot框架体验与评估 的出链列表"
+            }
+          },
+          {
+            "id": "45463337a2574a6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "930f9f8546f8a490",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1-Projects/AICoding/opencode 使用笔记.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "opencode 使用笔记 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "f9b6acda28c6f195",
+  "lastOpenFiles": [
+    "1-Projects/AICoding/oh-my-opencode 文档-html.md",
+    "1-Projects/AICoding/oh-my-opencode 文档.md",
+    "1-Projects/AICoding/oh-my-opencode-guide.md.nssyncsc",
+    "1-Projects/AICoding/oh-my-opencode 文档-html.md.nssyncsc",
+    "1-Projects/AICoding/oh-my-opencode 文档.md.nssyncsc",
+    "1-Projects/AICoding/oh-my-opencode.md",
+    "1-Projects/AICoding/opencode 使用笔记.md",
+    "1-Projects/AICoding/oh-my-opencode.json",
+    "1-Projects/AICoding/opencode.json",
+    "1-Projects/AICoding/工作汇报沟通 - 2026-01-08.md",
+    "1-Projects/TODOs.md",
+    "9. 附件/工作汇报沟通 - 2026-01-08",
+    "9. 附件/工作汇报沟通",
+    "1-Projects/AICoding/AI 辅助编程经验记录.md",
+    "1-Projects/和cn总沟通.md",
+    "9. 附件/工作汇报沟通 - 2026-01-08/IMG-工作汇报沟通 - 2026-01-08-20260108091152262.png",
+    "1-Projects/AICoding/Antigravity-WSL-配置指南.md",
+    "Clippings/Agentic Design Methodology  Parlant.md",
+    "1-Projects/AICoding",
+    "2-Areas/个人账号密码管理系统.md",
+    "4-Archives/Parlant ChatBot框架/parlant-articles/深入解析Parlant的指南匹配引擎.md",
+    "1-Projects/todoapp 开发笔记.md",
+    "4-Archives/支部书记述职 2025/~$党建工作述职报告_修订版.docx",
+    "4-Archives/支部书记述职 2025/基层党建工作述职报告_修订版.docx",
+    "1-Projects/2025个人年终述职/述职报告-沈丽忠-2025.md",
+    "1-Projects/2025个人年终述职/述职报告-沈丽忠-2025-精简版.md",
+    "1-Projects/2025个人年终述职/述职报告-沈丽忠-2025-逐字稿.md",
+    "1-Projects/2025个人述责述廉/2025述责述廉报告_沈丽忠.md",
+    "1-Projects/2025个人述责述廉/ref/党风廉政建设责任制考评办法_2024.md",
+    "1-Projects/2025个人述责述廉/ref/2024年度述责述廉报告_沈丽忠.md",
+    "1-Projects/2025个人述责述廉/ref/述责述廉报告提纲.md",
+    "1-Projects/2025个人述责述廉/ref/8.md",
+    "1-Projects/2025个人述责述廉/ref/7.md",
+    "1-Projects/2025个人述责述廉/ref/6.md",
+    "1-Projects/2025个人述责述廉/ref/5.md",
+    "1-Projects/2025个人述责述廉/ref/4.md",
+    "1-Projects/2025个人述责述廉/ref/3.md",
+    "1-Projects/2025个人述责述廉/ref/8.jpg",
+    "1-Projects/2025个人述责述廉/ref/7.jpg",
+    "1-Projects/2025个人述责述廉/ref/6.jpg",
+    "1-Projects/2025个人述责述廉/ref/5.jpg",
+    "1-Projects/2025个人述责述廉/ref/4.jpg",
+    "1-Projects/2025个人述责述廉/ref/3.jpg",
+    "1-Projects/2025个人述责述廉/ref/2.jpg",
+    "1-Projects/2025个人述责述廉/ref/1.jpg",
+    "1-Projects/支部书记述职 2025/image/9.jpg",
+    "4-Archives/Papers/TOD 论文读书笔记.canvas",
+    "4-Archives/Parlant ChatBot框架/Parlant 文档阅读笔记.canvas"
+  ]
+}

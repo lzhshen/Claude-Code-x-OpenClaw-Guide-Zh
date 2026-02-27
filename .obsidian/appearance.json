@@ -1,0 +1,17 @@
+{
+  "accentColor": "",
+  "cssTheme": "Things",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "HideMarkdownEmbedTitle",
+    "MultiColumn",
+    "ImageWidth",
+    "Checkboxes",
+    "DoneTaskInEditingMode",
+    "mermaid"
+  ],
+  "baseFontSize": 13,
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "translucency": false
+}

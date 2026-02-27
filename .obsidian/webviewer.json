@@ -1,0 +1,7 @@
+{
+  "openExternalURLs": false,
+  "enableAdblocking": true,
+  "markdownPath": "-1. 捕获",
+  "customSearchEngine": "https://duckduckgo.com/?q=%s",
+  "searchEngine": "custom"
+}
