@@ -1,0 +1,20 @@
+{
+  "id": "conv-1772184756009-4dnewth1s",
+  "title": "Generate article slide outline with page numbers",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772184756009,
+  "updatedAt": 1772184780845,
+  "lastResponseAt": 1772184780845,
+  "sessionId": "138a1421-4c33-40c1-b67a-1e1f09d1e522",
+  "sdkSessionId": "138a1421-4c33-40c1-b67a-1e1f09d1e522",
+  "currentNote": "docs/openclaw/01-OpenClaw项目介绍.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 11608,
+    "cacheCreationInputTokens": 321,
+    "cacheReadInputTokens": 16774,
+    "contextWindow": 200000,
+    "contextTokens": 28703,
+    "percentage": 14
+  }
+}
