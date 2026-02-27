@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/openclaw/00-阅读指南.md",
+                "file": "docs/openclaw/01-OpenClaw项目介绍.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "00-阅读指南"
+              "title": "01-OpenClaw项目介绍"
             }
           }
         ],
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/openclaw/00-阅读指南.md",
+                "file": "docs/openclaw/01-OpenClaw项目介绍.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "00-阅读指南 的大纲"
+              "title": "01-OpenClaw项目介绍 的大纲"
             }
           },
           {
@@ -219,7 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 518.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,10 +242,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f6a21238aaffad84",
+  "active": "b3f79ff994a42914",
   "lastOpenFiles": [
-    "docs/openclaw/01-OpenClaw项目介绍.md",
+    ".claude/sessions/conv-1772180134742-2770ic1a8.meta.json",
     "docs/openclaw/00-阅读指南.md",
+    "docs/openclaw/01-OpenClaw项目介绍.md",
     ".claude/sessions/conv-1772173192912-bxvmlss7d.meta.json",
     ".obsidian/plugins/smart-connections/styles.css",
     ".obsidian/plugins/smart-connections/main.js",
@@ -280,7 +281,6 @@
     "40.归档/workout-tracker-需求说明_优化版.md",
     "30.资源/卡片盒/CC-Switch-Claude-Code-MiniMax-多平台配置.md",
     "30.资源/卡片盒/OpenClaw定时任务模式对比.md",
-    "30.资源/卡片盒/健身房常用动作指南.md",
     "openclaw-cron-jobs.png",
     "cron-jobs-full.png",
     "cron-jobs.png",

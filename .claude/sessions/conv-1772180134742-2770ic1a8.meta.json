@@ -1,0 +1,20 @@
+{
+  "id": "conv-1772180134742-2770ic1a8",
+  "title": "Understand OpenClaw Tools Canvas functionality",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772180134742,
+  "updatedAt": 1772180334951,
+  "lastResponseAt": 1772180334951,
+  "sessionId": "13fb10b1-022e-4477-993b-f7141aa216a3",
+  "sdkSessionId": "13fb10b1-022e-4477-993b-f7141aa216a3",
+  "currentNote": "docs/openclaw/01-OpenClaw项目介绍.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 447,
+    "cacheCreationInputTokens": 290,
+    "cacheReadInputTokens": 30982,
+    "contextWindow": 200000,
+    "contextTokens": 31719,
+    "percentage": 16
+  }
+}
