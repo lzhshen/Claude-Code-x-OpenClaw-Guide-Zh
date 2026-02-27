@@ -1,0 +1,20 @@
+{
+  "id": "conv-1772183657905-2wpv05y48",
+  "title": "Generate PPT outline for article",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772183657905,
+  "updatedAt": 1772183772130,
+  "lastResponseAt": 1772183772130,
+  "sessionId": "172dd0aa-bf04-49bc-8265-711b16330ebe",
+  "sdkSessionId": "172dd0aa-bf04-49bc-8265-711b16330ebe",
+  "currentNote": "docs/openclaw/01-OpenClaw项目介绍.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 11608,
+    "cacheCreationInputTokens": 278,
+    "cacheReadInputTokens": 16774,
+    "contextWindow": 200000,
+    "contextTokens": 28660,
+    "percentage": 14
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "conv-1772183867935-l35uw63jd",
+  "title": "Create OpenClaw PPT Outline",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772183867936,
+  "updatedAt": 1772183960211,
+  "lastResponseAt": 1772183960211,
+  "sessionId": "0f6ba052-2118-486c-8419-6ca2ac22df56",
+  "sdkSessionId": "0f6ba052-2118-486c-8419-6ca2ac22df56",
+  "currentNote": "docs/openclaw/01-OpenClaw项目介绍.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 11608,
+    "cacheCreationInputTokens": 291,
+    "cacheReadInputTokens": 16774,
+    "contextWindow": 200000,
+    "contextTokens": 28673,
+    "percentage": 14
+  }
+}
