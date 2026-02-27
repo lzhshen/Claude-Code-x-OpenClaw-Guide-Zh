@@ -1,0 +1,20 @@
+{
+  "id": "conv-1772173192912-bxvmlss7d",
+  "title": "Start conversation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772173192913,
+  "updatedAt": 1772173211881,
+  "lastResponseAt": 1772173201237,
+  "sessionId": "5d0b5168-5b8d-4cad-a24c-5d53872ba945",
+  "sdkSessionId": "5d0b5168-5b8d-4cad-a24c-5d53872ba945",
+  "currentNote": "docs/openclaw/00-阅读指南.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 105,
+    "cacheCreationInputTokens": 16354,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 16459,
+    "percentage": 8
+  }
+}
