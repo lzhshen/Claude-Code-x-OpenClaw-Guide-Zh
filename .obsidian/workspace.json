@@ -238,8 +238,7 @@
       "fuzzy-chinese-pinyin:FuzzySearch": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "periodic-notes:Open today": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "930f9f8546f8a490",
