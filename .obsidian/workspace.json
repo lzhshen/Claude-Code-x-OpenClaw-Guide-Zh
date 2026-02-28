@@ -219,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 533.5
+    "width": 488.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,10 +239,11 @@
       "fuzzy-chinese-pinyin:FuzzySearch": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "930f9f8546f8a490",
+  "active": "f6a21238aaffad84",
   "lastOpenFiles": [
     ".claude/sessions/conv-1772184756009-4dnewth1s.meta.json",
     ".claude/sessions/conv-1772183867935-l35uw63jd.meta.json",
